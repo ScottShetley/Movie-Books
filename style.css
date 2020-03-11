@@ -1,0 +1,83 @@
+body {
+    font-family: arial;
+}
+
+#side-profile {
+    background-color: #7b1fa2;
+}
+
+#side-all {
+    background-color: #0277bd;
+}
+
+#side-you-like {
+    background-color: #c2185b;
+}
+
+#side-likes-you{
+    background-color: #f9a825;
+}
+
+
+.side-box {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    margin: 10px 0px;
+    padding: 15px;
+   
+  
+}
+.side-box h3 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.post {
+    background-color: #1565c0;
+    color: white;
+    font-size: 16px;
+}
+
+.post div:first-child {
+}
+
+.post div:nth-child(2) {
+    font-size: 12px;
+}
+.post div:nth-child(2) a {
+    font-weight: bold;
+}
+
+#post-form {
+    text-align: center;
+}
+
+#post-form textarea {
+    font-size: 16px;
+}
+
+#post-form button {
+    color: white;
+    background-color: #00897B;
+    font-size: 16px;
+    line-height: 45px;   
+}
+
+#wrapper {
+    max-width: 808px;
+    margin: 0px auto;
+}
+
+#wrapper a {
+    color: white;
+    text-decoration: none;
+}
+
+#wrapper a:hover {
+text-decoration: underline;
+}
+
+#profile-area {
+    width: 20%;
+}
